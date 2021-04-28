@@ -1,0 +1,13 @@
+Pfb the given steps to run the code:
+
+Step 1 : Create a virtual environment / create new conda environment 
+
+Step 2 : Install python , currently I ran this code with python version  3.7.3
+
+Step 3 : pip install -r ideapokerequirements.txt
+
+Step 4 : run python app_py.py 
+
+Step 5 : Test in postman by passing the text as { "Input":"Body data" }
+
+Also shared the screenshot tested in postman.
